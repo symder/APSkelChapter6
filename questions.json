@@ -330,6 +330,28 @@
     "feedback": "Reactive, Reparative (Which has two parts to it), Remodeling."
   },
   {
+    "question": "A fracture where one end of the fractured bone is forcefully driven into the interior of the other is called what?",
+    "choices": [
+      "Comminuted",
+      "Open / Compound",
+      "Closed / Simple",
+      "Impacted"
+    ],
+    "correctIndex": 3,
+    "feedback": "Impacted is correct."
+  },
+    {
+    "question": "A fracture where The bone is splintered, crushed, or broken into pieces is called what?",
+    "choices": [
+      "Comminuted",
+      "Open / Compound",
+      "Closed / Simple",
+      "Impacted"
+    ],
+    "correctIndex": 0,
+    "feedback": "Comminuted is correct."
+  },
+  {
     "question": "What is the difference between a Pott Fracture and a Colles Fracture?",
     "choices": [
       "A Pott fracture affects the wrist, while a Colles fracture affects the ankle",
