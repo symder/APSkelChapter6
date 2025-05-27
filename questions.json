@@ -297,6 +297,17 @@
     "feedback": "Rickets is caused by vitamin D deficiency in children, leading to soft bones."
   },
   {
+    "question": "What are the four main phases of bone fracture repair, in the correct order?",
+    "choices": [
+      "Hematoma formation, Fibrocartilaginous callus formation, Bony callus formation, Bone remodeling",
+      "Bone remodeling, Hematoma formation, Bony callus formation, Fibrocartilaginous callus formation",
+      "Bony callus formation, Hematoma formation, Bone remodeling, Fibrocartilaginous callus formation",
+      "Inflammation, Calcification, Ossification, Remodeling"
+    ],
+    "correctIndex": 0,
+    "feedback": "Hematoma formation (Reactive Phase), Fibrocartilaginous callus formation (Reparative Phase A), Bony callus formation (Reparative Phase B), Bone remodeling (Bone Remodeling Phase)."
+  },
+  {
     "question": "Vitamin D deficiency can cause what bone disease in Adults?",
     "choices": [
       "Rickets",
