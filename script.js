@@ -1,5 +1,5 @@
 let questions = [];
-const numQuestions = 28;
+const numQuestions = 29;
 
 async function loadQuestions() {
   const res = await fetch('questions.json');
