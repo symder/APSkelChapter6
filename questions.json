@@ -308,6 +308,17 @@
     "feedback": "Hematoma formation (Reactive Phase), Fibrocartilaginous callus formation (Reparative Phase A), Bony callus formation (Reparative Phase B), Bone remodeling (Bone Remodeling Phase)."
   },
   {
+    "question": "Why is bone considered a connective tissue?",
+    "choices": [
+      "Because it stores calcium and other minerals",
+      "Because it supports the body and allows movement",
+      "Because it contains cells embedded in an extracellular matrix",
+      "Because it is hard and dense like other bones"
+    ],
+    "correctIndex": 2,
+    "feedback": "Because it contains cells embedded in an extracellular matrix. Bone is classified as a connective tissue because it consists of specialized cells (like osteocytes) embedded in a solid extracellular matrix made up of collagen fibers and mineral deposits, primarily calcium phosphate. This structure is typical of connective tissues, which function to support, bind, or separate other tissues and organs in the body."
+  },
+  {
     "question": "Vitamin D deficiency can cause what bone disease in Adults?",
     "choices": [
       "Rickets",
