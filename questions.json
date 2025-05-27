@@ -165,17 +165,6 @@
     "feedback": "Ossification is the process where new bone is formed."
   },
   {
-    "question": "What type of roughly cube-shaped bone is in the wrists and ankles?",
-    "choices": [
-      "Long bones",
-      "Flat bones",
-      "Irregular bones",
-      "Short bones"
-    ],
-    "correctIndex": 3,
-    "feedback": "Short bones are cube-shaped and found in wrists and ankles."
-  },
-  {
     "question": "What type of Ossification is occurring when bone is replacing cartilage?",
     "choices": [
       "Intramembranous ossification",
