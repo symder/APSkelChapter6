@@ -302,7 +302,7 @@
       "Hematoma formation, Fibrocartilaginous callus formation, Bony callus formation, Bone remodeling",
       "Bone remodeling, Hematoma formation, Bony callus formation, Fibrocartilaginous callus formation",
       "Bony callus formation, Hematoma formation, Bone remodeling, Fibrocartilaginous callus formation",
-      "Inflammation, Calcification, Ossification, Remodeling"
+      "Inflammation, Calcification, Remodeling, Ossification"
     ],
     "correctIndex": 0,
     "feedback": "Hematoma formation (Reactive Phase), Fibrocartilaginous callus formation (Reparative Phase A), Bony callus formation (Reparative Phase B), Bone remodeling (Bone Remodeling Phase)."
