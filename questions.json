@@ -184,25 +184,25 @@
       "Secondary ossification"
     ],
     "correctIndex": 2,
-    "feedback": "Intramembranous ossification occurs directly from mesenchymal tissue."
+    "feedback": "Intramembranous Ossification occurs directly from mesenchymal tissue. Endochondral Ossification replaces Cartilage with bone."
   },
   {
     "question": "In what four main situations does Ossification occur?",
     "choices": [
       "Embryo formation, bone growth, bone repair, bone aging",
-      "Fetal development, postnatal growth, bone remodeling, fracture repair",
+      "Fetal development, infancy to adulthood growth, bone remodeling, fracture repair",
       "Birth, puberty, adulthood, death",
       "Growth spurts, injuries, infections, old age"
     ],
     "correctIndex": 1,
-    "feedback": "Ossification occurs during fetal development, postnatal growth, bone remodeling, and fracture repair."
+    "feedback": "Ossification occurs during fetal development, infancy to adulthood growth, bone remodeling, and fracture repair."
   },
   {
     "question": "What is the difference between Epiphyseal Growth and Appositional Growth?",
     "choices": [
-      "Epiphyseal increases width; Appositional increases length",
-      "Both increase width",
-      "Epiphyseal increases length; Appositional increases width",
+      "Epiphyseal increases diameter; Appositional increases length",
+      "Both increase diameter",
+      "Epiphyseal increases length; Appositional increases diameter",
       "Both increase length"
     ],
     "correctIndex": 2,
@@ -264,7 +264,7 @@
     "feedback": "Parathyroid hormone (PTH) is the key regulator of calcium ion levels in blood."
   },
   {
-    "question": "Why is Osteoporosis more common in Women?",
+    "question": "Why is Osteoporosis more common in middle aged and elderly women?",
     "choices": [
       "Women consume less calcium",
       "Men have more bone density",
