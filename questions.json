@@ -1,482 +1,321 @@
 [
   {
-    "question": "What are the levels of structure in living things?",
+    "question": "The process of building new bone tissue and breaking down old bone tissue is called what?",
     "choices": [
-      "chemical = cellular = tissues = organs = systems = organism",
-      "chemical = cellular = tissues = systems = organs = organism",
-      "cellular = chemical = tissues = organs = systems = organism",
-      "molecules = chemical = tissues = organs = systems = organism"
-    ],
-    "correctIndex": 0,
-    "feedback": "The correct order is chemical = cellular = tissues = organs = systems = organism."
-  },
-  {
-    "question": "What are some examples of things that must be maintained for homeostasis?",
-    "choices": [
-      "Body temperature, pH, hydration, and blood glucose",
-      "Only body temperature",
-      "Only hydration",
-      "None of the above"
-    ],
-    "correctIndex": 0,
-    "feedback": "Homeostasis maintains body temperature, pH, hydration, and blood glucose levels."
-  },
-  {
-    "question": "What is the difference between negative and positive feedback?",
-    "choices": [
-      "Positive feedback opposes change; negative feedback enhances it",
-      "They are the same",
-	  "Negative feedback opposes change; positive feedback enhances it",
-      "Neither are involved in homeostasis"
-    ],
-    "correctIndex": 2,
-    "feedback": "Negative feedback reduces the effect of a stimulus, while positive feedback enhances it."
-  },
-  {
-    "question": "Which feedback mechanism is more common in the body?",
-    "choices": [
-      "Positive feedback",
-      "Negative feedback",
-      "Both equally",
-      "Neither"
-    ],
-    "correctIndex": 1,
-    "feedback": "Negative feedback is more common as it helps maintain homeostasis."
-  },
-  {
-    "question": "What is the difference between mass and weight in an atom?",
-    "choices": [
-      "Weight is constant; mass varies with gravity",
-      "They are the same",
-      "Atoms do not have weight",
-	  "Mass is constant; weight varies with gravity",
+      "Osteopathy",
+      "Ossification",
+      "Bone cycling",
+      "Remodeling"
     ],
     "correctIndex": 3,
-    "feedback": "Mass is a measure of matter and does not change; weight depends on gravitational pull."
+    "feedback": "This process is known as bone remodeling, which maintains bone integrity."
   },
   {
-    "question": "Which is the most common type of chemical bond?",
+    "question": "How do bones assist with Homeostasis?",
     "choices": [
-      "Covalent",
-      "Ionic",
-      "Hydrogen",
-      "Metallic"
+      "Producing insulin",
+      "Storing and releasing minerals",
+      "Pumping blood",
+      "Digesting nutrients"
     ],
-    "correctIndex": 0,
-    "feedback": "Covalent bonds are the most common type of chemical bond in biological molecules."
+    "correctIndex": 1,
+    "feedback": "Bones store and release minerals like calcium to help maintain homeostasis."
   },
   {
-    "question": "Which is the strongest chemical bond?",
+    "question": "The body or shaft of a bone is called what?",
     "choices": [
-      "Covalent",
-      "Ionic",
-      "Hydrogen",
-      "Van der Waals"
+      "Epiphysis",
+      "Diaphysis",
+      "Metaphysis",
+      "Compact bone"
     ],
-    "correctIndex": 0,
-    "feedback": "Covalent bonds are the strongest among the common chemical bonds."
+    "correctIndex": 1,
+    "feedback": "The diaphysis is the central shaft of a long bone."
   },
   {
-    "question": "Which is the weakest chemical bond?",
+    "question": "The proximal and distal ends of the bone are called what?",
     "choices": [
-      "Hydrogen",
-      "Ionic",
-      "Covalent",
-      "Metallic"
+      "Diaphysis",
+      "Articulations",
+      "Epiphyses",
+      "Growth plates"
     ],
-    "correctIndex": 0,
-    "feedback": "Hydrogen bonds are relatively weak compared to covalent and ionic bonds."
+    "correctIndex": 2,
+    "feedback": "Epiphyses are the rounded ends of long bones at joints."
   },
   {
-    "question": "What is the difference between a mixture and a compound?",
+    "question": "What does the medullary cavity contain?",
     "choices": [
-      "Mixtures are physically combined; compounds are chemically combined",
-      "Compounds are physically combined; mixtures are chemically combined",
-      "They are the same",
-      "Mixtures involve covalent bonds"
+      "Compact bone",
+      "Red bone marrow",
+      "Spongy bone",
+      "Yellow bone marrow"
     ],
-    "correctIndex": 0,
-    "feedback": "Mixtures involve physical combinations, while compounds are chemically bonded."
+    "correctIndex": 3,
+    "feedback": "The medullary cavity contains yellow bone marrow, primarily composed of fat."
   },
   {
-    "question": "Which solution does not allow light to pass easily?",
+    "question": "Perforating Fibers, also called Sharpey's fibers, attach what to the bone?",
     "choices": [
-      "Suspension",
-      "Solution",
-      "Colloid",
-      "All allow light equally"
+      "Ligaments",
+      "Cartilage",
+      "Periosteum",
+      "Epiphyseal plates"
     ],
-    "correctIndex": 0,
-    "feedback": "Suspensions are opaque and do not allow light to pass through easily."
+    "correctIndex": 2,
+    "feedback": "Sharpey's fibers attach the periosteum to the bone."
   },
   {
-    "question": "What is the purpose of the plasma membrane?",
+    "question": "What are the four types of cells present in bone tissue?",
     "choices": [
-      "To regulate what enters and leaves the cell",
-      "To produce energy",
-      "To digest waste",
-      "To store DNA"
+      "Osteoblasts, osteocytes, osteoclasts, osteoprogenitor cells",
+      "Chondrocytes, fibroblasts, osteocytes, leukocytes",
+      "Osteoblasts, fibroblasts, macrophages, chondroblasts",
+      "Red blood cells, white blood cells, osteoblasts, platelets"
     ],
     "correctIndex": 0,
-    "feedback": "The plasma membrane controls the movement of substances in and out of cells."
+    "feedback": "Bone tissue includes osteoblasts, osteocytes, osteoclasts, and osteoprogenitor cells."
   },
   {
-    "question": "What makes up the plasma membrane?",
+    "question": "What best describes the function of Osteoprogenitor Cells?",
     "choices": [
-      "Phospholipids and proteins",
-      "DNA and RNA",
-      "Glucose and water",
-      "Amino acids and cholesterol"
+      "Mature bone cells that maintain bone",
+      "Bone-destroying cells",
+      "Unspecialized stem cells that develop into osteoblasts",
+      "Bone-matrix producing cells"
     ],
-    "correctIndex": 0,
-    "feedback": "The plasma membrane is primarily made of phospholipids and embedded proteins."
+    "correctIndex": 2,
+    "feedback": "Osteoprogenitor cells are stem cells that differentiate into osteoblasts."
   },
   {
-    "question": "What can cross the plasma membrane easily?",
+    "question": "What best describes the function of Osteoblasts?",
     "choices": [
-      "Small nonpolar molecules",
-      "Large proteins",
-      "Ions",
-      "Glucose"
+      "Form new bone matrix",
+      "Break down bone",
+      "Sense mechanical stress",
+      "Generate cartilage"
     ],
     "correctIndex": 0,
-    "feedback": "Small nonpolar molecules can diffuse across the membrane easily."
+    "feedback": "Osteoblasts are responsible for forming new bone matrix."
   },
   {
-    "question": "What can't cross the plasma membrane without assistance?",
+    "question": "What best describes the function of Osteocytes?",
     "choices": [
-      "Glucose and ions",
-      "Oxygen",
-      "Carbon dioxide",
-      "Water"
+      "Destroy bone tissue",
+      "Secrete collagen",
+      "Maintain bone tissue",
+      "Stimulate calcium absorption"
     ],
-    "correctIndex": 0,
-    "feedback": "Glucose and ions require transport proteins to cross the membrane."
+    "correctIndex": 2,
+    "feedback": "Osteocytes are mature bone cells that maintain the bone matrix."
   },
   {
-    "question": "What can\u2019t cross the plasma membrane at all?",
+    "question": "What best describes the function of Osteoclasts?",
     "choices": [
-      "Large charged molecules",
-      "Water",
-      "Carbon dioxide",
-      "Oxygen"
+      "Maintain bone structure",
+      "Form cartilage",
+      "Break down bone matrix",
+      "Develop into osteocytes"
     ],
-    "correctIndex": 0,
-    "feedback": "Large charged molecules typically cannot cross without specific transport mechanisms."
+    "correctIndex": 2,
+    "feedback": "Osteoclasts are large cells that break down bone tissue during remodeling."
   },
   {
-    "question": "What are the 3 parts of the cell and their function?",
+    "question": "What best describes difference between compact and spongy bone tissue?",
     "choices": [
-      "Plasma membrane, cytoplasm, nucleus",
-      "Cell wall, cytoplasm, mitochondria",
-      "Nucleus, ribosomes, ER",
-      "Golgi, lysosome, peroxisome"
+      "Compact bone is dense and forms the outer layer; spongy bone is porous and found inside bones.",
+      "Compact bone is found only in children; spongy bone is in adults.",
+      "Spongy bone is stronger than compact bone.",
+      "There is no difference."
     ],
     "correctIndex": 0,
-    "feedback": "The three main parts of a cell are the plasma membrane (boundary), cytoplasm (internal fluid), and nucleus (control center)."
+    "feedback": "Compact bone is dense and external; spongy bone is porous and internal."
   },
   {
-    "question": "Which of these is a strong acid?",
+    "question": "What is Bone Histology?",
     "choices": [
-      "HCl",
-      "H2CO3",
-      "CH3COOH",
-      "NH3"
+      "Study of bone diseases",
+      "Study of bone development",
+      "Study of bone tissue structure",
+      "Study of bone injuries"
     ],
-    "correctIndex": 0,
-    "feedback": "HCl (hydrochloric acid) is a strong acid."
+    "correctIndex": 2,
+    "feedback": "Bone Histology is the microscopic study of bone tissue."
   },
   {
-    "question": "Which of these is a weak acid?",
+    "question": "What bones make up the Appendicular Skeleton?",
     "choices": [
-      "CH3COOH",
-      "HCl",
-      "HNO3",
-      "H2SO4"
+      "Skull, ribs, and vertebrae",
+      "Arms, legs, pelvis, and shoulder girdle",
+      "Sternum and vertebral column",
+      "Ribs and pelvis"
     ],
-    "correctIndex": 0,
-    "feedback": "Acetic acid (CH3COOH) is a common weak acid."
+    "correctIndex": 1,
+    "feedback": "The appendicular skeleton includes limbs and girdles."
   },
   {
-    "question": "What is the name of this chemical: Na",
+    "question": "What is Ossification?",
     "choices": [
-      "Sodium",
-      "Nitrogen",
-      "Nickel",
-      "Naphthalene"
+      "The breakdown of bone",
+      "The hardening of cartilage",
+      "The process of bone formation",
+      "The growth of bone marrow"
     ],
-    "correctIndex": 0,
-    "feedback": "Na is the chemical symbol for Sodium."
+    "correctIndex": 2,
+    "feedback": "Ossification is the process where new bone is formed."
   },
   {
-    "question": "What is the name of this chemical: K",
+    "question": "What type of roughly cube-shaped bone is in the wrists and ankles?",
     "choices": [
-      "Potassium",
-      "Krypton",
-      "Kalium",
-      "Ketone"
+      "Long bones",
+      "Flat bones",
+      "Irregular bones",
+      "Short bones"
     ],
-    "correctIndex": 0,
-    "feedback": "K stands for Potassium (from the Latin 'Kalium')."
+    "correctIndex": 3,
+    "feedback": "Short bones are cube-shaped and found in wrists and ankles."
   },
   {
-    "question": "What is the name of this chemical: Ca",
+    "question": "What type of Ossification is occurring when bone is replacing cartilage?",
     "choices": [
-      "Calcium",
-      "Carbon",
-      "Cadmium",
-      "Chlorine"
+      "Intramembranous ossification",
+      "Endochondral ossification",
+      "Compact ossification",
+      "Cancellous ossification"
     ],
-    "correctIndex": 0,
-    "feedback": "Ca is the chemical symbol for Calcium."
+    "correctIndex": 1,
+    "feedback": "Endochondral ossification involves the replacement of cartilage with bone."
   },
   {
-    "question": "What is the name of this chemical: Mg",
+    "question": "What type of Ossification is occurring when bone is forming directly from the mesenchyme connective tissue?",
     "choices": [
-      "Magnesium",
-      "Manganese",
-      "Mercury",
-      "Methane"
+      "Endochondral ossification",
+      "Cartilaginous ossification",
+      "Intramembranous ossification",
+      "Secondary ossification"
     ],
-    "correctIndex": 0,
-    "feedback": "Mg is the chemical symbol for Magnesium."
+    "correctIndex": 2,
+    "feedback": "Intramembranous ossification occurs directly from mesenchymal tissue."
   },
   {
-    "question": "What is the name of this chemical: Cl",
+    "question": "In what four main situations does Ossification occur?",
     "choices": [
-      "Chlorine",
-      "Calcium",
-      "Chloride",
-      "Carbon"
+      "Embryo formation, bone growth, bone repair, bone aging",
+      "Fetal development, postnatal growth, bone remodeling, fracture repair",
+      "Birth, puberty, adulthood, death",
+      "Growth spurts, injuries, infections, old age"
     ],
-    "correctIndex": 0,
-    "feedback": "Cl stands for Chlorine."
+    "correctIndex": 1,
+    "feedback": "Ossification occurs during fetal development, postnatal growth, bone remodeling, and fracture repair."
   },
   {
-    "question": "What is the name of this chemical: P",
+    "question": "What is the difference between Epiphyseal Growth and Appositional Growth?",
     "choices": [
-      "Phosphorus",
-      "Potassium",
-      "Platinum",
-      "Palladium"
+      "Epiphyseal increases width; Appositional increases length",
+      "Both increase width",
+      "Epiphyseal increases length; Appositional increases width",
+      "Both increase length"
     ],
-    "correctIndex": 0,
-    "feedback": "P is the chemical symbol for Phosphorus."
+    "correctIndex": 2,
+    "feedback": "Epiphyseal growth increases bone length, appositional growth increases diameter."
   },
   {
-    "question": "What is the name of this chemical: S",
+    "question": "What best describes an Open Fracture, also known as a Compound Fracture?",
     "choices": [
-      "Sulfur",
-      "Sodium",
-      "Silicon",
-      "Strontium"
+      "Bone is broken and skin is intact",
+      "Bone is cracked but not broken",
+      "Bone breaks and pierces through the skin",
+      "Hairline bone fracture"
+    ],
+    "correctIndex": 2,
+    "feedback": "In an open fracture, the broken bone punctures the skin."
+  },
+  {
+    "question": "What best describes a Closed Fracture, also known as a Simple Fracture?",
+    "choices": [
+      "Bone breaks and skin is pierced",
+      "Bone breaks but does not pierce the skin",
+      "Bone cracks slightly",
+      "Bone is compressed"
+    ],
+    "correctIndex": 1,
+    "feedback": "A closed fracture does not involve the bone piercing the skin."
+  },
+  {
+    "question": "What type of fracture only occurs in Children?",
+    "choices": [
+      "Compound fracture",
+      "Greenstick fracture",
+      "Comminuted fracture",
+      "Spiral fracture"
+    ],
+    "correctIndex": 1,
+    "feedback": "Greenstick fractures are partial fractures commonly seen in children."
+  },
+  {
+    "question": "VCF is a short form term for what kind of Fracture?",
+    "choices": [
+      "Vertebral Compression Fracture",
+      "Vascular Cartilage Fracture",
+      "Vertical Cranial Fracture",
+      "Ventral Column Fracture"
     ],
     "correctIndex": 0,
-    "feedback": "S is the chemical symbol for Sulfur."
+    "feedback": "VCF stands for Vertebral Compression Fracture."
   },
-{
-  "question": "What is the smallest unit (monomer) of Lipids?",
-  "choices": ["Fatty acids", "Glycerol", "Amino acids", "Nucleotides"],
-  "correctIndex": 0,
-  "feedback": "Fatty acids are one of the key monomers of lipids, along with glycerol."
-},
-{
-  "question": "What is the smallest unit (monomer) of Protein?",
-  "choices": ["Amino acids", "Monosaccharides", "Fatty acids", "Nucleotides"],
-  "correctIndex": 0,
-  "feedback": "Proteins are made from amino acid monomers."
-},
-{
-  "question": "Fill in the blank: Glycerol is a _______________________.",
-  "choices": ["backbone of lipids", "type of protein", "sugar molecule", "nucleotide base"],
-  "correctIndex": 0,
-  "feedback": "Glycerol serves as the backbone in many lipid molecules."
-},
-{
-  "question": "Fill in the blank: Amino acids join to form a short _________________ or a long __________________.",
-  "choices": ["peptide, protein", "fat, chain", "sugar, carbohydrate", "gene, chromosome"],
-  "correctIndex": 0,
-  "feedback": "Amino acids form short peptides or long proteins."
-},
-{
-  "question": "Fill in the blank: Glucose is stored as_________________.",
-  "choices": ["glycogen", "lipid", "protein", "amino acid"],
-  "correctIndex": 0,
-  "feedback": "Glucose is stored in the body as glycogen."
-},
-{
-  "question": "Fill in the blank: Fat is stored as_________________________.",
-  "choices": ["triglycerides", "cholesterol", "glycogen", "glucose"],
-  "correctIndex": 0,
-  "feedback": "Fat is stored in the body in the form of triglycerides."
-},
-{
-  "question": "Fill in the blank: Cholesterol is used to keep the plasma membrane _________________.",
-  "choices": ["fluid", "rigid", "non-porous", "inactive"],
-  "correctIndex": 0,
-  "feedback": "Cholesterol helps maintain fluidity in the plasma membrane."
-},
-{
-  "question": "What is a platelet’s function?",
-  "choices": ["Blood clotting", "Oxygen transport", "Immunity", "Nutrient absorption"],
-  "correctIndex": 0,
-  "feedback": "Platelets are responsible for blood clotting."
-},
-{
-  "question": "What is the role of a peroxisome?",
-  "choices": ["Breaks down fatty acids and detoxifies", "Protein synthesis", "DNA replication", "Energy production"],
-  "correctIndex": 0,
-  "feedback": "Peroxisomes break down fatty acids and neutralize toxic compounds."
-},
-{
-  "question": "What is the role of a lysosome?",
-  "choices": ["Breaks down waste and cellular debris", "Produces ATP", "Replicates DNA", "Synthesizes proteins"],
-  "correctIndex": 0,
-  "feedback": "Lysosomes digest waste materials and cellular debris."
-},
-{
-  "question": "What do peroxisomes and lysosomes break down?",
-  "choices": ["Toxins and waste materials", "Proteins", "Water", "Carbohydrates"],
-  "correctIndex": 0,
-  "feedback": "Both organelles play a role in breaking down harmful substances and waste."
-},
-{
-  "question": "What is the role of the Golgi complex?",
-  "choices": ["Modifies, packages, and ships proteins", "Generates energy", "Detoxifies chemicals", "Synthesizes DNA"],
-  "correctIndex": 0,
-  "feedback": "The Golgi complex processes and packages proteins and lipids."
-},
-{
-  "question": "What is the role of mitochondria?",
-  "choices": ["Produce ATP", "Digest waste", "Make proteins", "Store calcium"],
-  "correctIndex": 0,
-  "feedback": "Mitochondria are the powerhouses of the cell, producing ATP."
-},
-{
-  "question": "What is the role of ribosomes?",
-  "choices": ["Protein synthesis", "ATP production", "DNA storage", "Fat metabolism"],
-  "correctIndex": 0,
-  "feedback": "Ribosomes are responsible for synthesizing proteins."
-},
-{
-  "question": "What is the role of the smooth ER?",
-  "choices": ["Lipid synthesis and detoxification", "Protein production", "DNA replication", "Energy storage"],
-  "correctIndex": 0,
-  "feedback": "The smooth ER is involved in lipid synthesis and detoxification processes."
-},
-{
-  "question": "What is the role of the rough ER?",
-  "choices": ["Protein synthesis", "Lipid storage", "DNA transport", "ATP production"],
-  "correctIndex": 0,
-  "feedback": "The rough ER is covered in ribosomes and synthesizes proteins."
-},
-{
-  "question": "What is it called when there is only 1 layer of cells in a tissue?",
-  "choices": ["Simple", "Stratified", "Cuboidal", "Pseudostratified"],
-  "correctIndex": 0,
-  "feedback": "A single layer of cells is called 'simple' epithelium."
-},
-{
-  "question": "What is it called when there is more than 1 layer of cells in a tissue?",
-  "choices": ["Stratified", "Simple", "Cuboidal", "Columnar"],
-  "correctIndex": 0,
-  "feedback": "Tissues with more than one layer of cells are called 'stratified'."
-},
-{
-  "question": "What is apoptosis?",
-  "choices": ["Programmed cell death", "Uncontrolled cell division", "Cell growth", "Cell infection"],
-  "correctIndex": 0,
-  "feedback": "Apoptosis is the process of programmed cell death."
-},
-{
-  "question": "What is the difference between spongy (trabecular) and compact bone?",
-  "choices": ["Spongy is porous and compact is dense", "Spongy is outside and compact is inside", "Spongy is harder", "Compact has more blood vessels"],
-  "correctIndex": 0,
-  "feedback": "Spongy bone is porous and lighter, while compact bone is dense and strong."
-},
-{
-  "question": "What is an osteon?",
-  "choices": ["Structural unit of compact bone", "Bone cell", "Joint", "Bone marrow"],
-  "correctIndex": 0,
-  "feedback": "An osteon is the functional unit of compact bone."
-},
-{
-  "question": "Which tissues are excitable?",
-  "choices": ["Nervous and muscle tissue", "Connective and epithelial", "Bone and cartilage", "Adipose and epithelial"],
-  "correctIndex": 0,
-  "feedback": "Nervous and muscle tissues are excitable, meaning they can respond to stimuli."
-},
-{
-  "question": "Which tissues are contractile?",
-  "choices": ["Muscle tissue", "Epithelial tissue", "Nervous tissue", "Connective tissue"],
-  "correctIndex": 0,
-  "feedback": "Muscle tissue has the unique ability to contract."
-},
-{
-  "question": "Name 3 types of fibres in connective tissue.",
-  "choices": ["Collagen, elastic, reticular", "Keratin, myosin, actin", "Calcium, phosphate, sodium", "Collagen, myelin, elastin"],
-  "correctIndex": 0,
-  "feedback": "The three main fiber types in connective tissue are collagen, elastic, and reticular fibers."
-},
-{
-  "question": "Name a cell found in connective tissue.",
-  "choices": ["Fibroblast", "Neuron", "Chondrocyte", "Myocyte"],
-  "correctIndex": 0,
-  "feedback": "Fibroblasts are common cells found in connective tissue."
-},
-{
-  "question": "Which tissues are avascular?",
-  "choices": ["Epithelial and cartilage", "Muscle and nervous", "Bone and muscle", "Blood and bone"],
-  "correctIndex": 0,
-  "feedback": "Epithelial tissue and cartilage are avascular, meaning they lack blood vessels."
-},
-{
-  "question": "Which tissues are highly vascular?",
-  "choices": ["Muscle and bone", "Cartilage and epithelial", "Ligaments and tendons", "Skin and cartilage"],
-  "correctIndex": 0,
-  "feedback": "Muscle and bone are highly vascular tissues."
-},
-{
-  "question": "What are the major elements of the body?",
-  "choices": ["Oxygen, carbon, hydrogen, nitrogen", "Calcium, potassium, sulfur, chlorine", "Iron, zinc, copper, iodine", "Sodium, magnesium, fluorine, lithium"],
-  "correctIndex": 0,
-  "feedback": "The four major elements in the human body are oxygen, carbon, hydrogen, and nitrogen."
-},
-{
-  "question": "What is the purpose of ATP?",
-  "choices": ["To store and provide energy for cellular processes", "To synthesize proteins", "To carry genetic information", "To build cell membranes"],
-  "correctIndex": 0,
-  "feedback": "ATP is the primary energy carrier in cells."
-},
-{
-  "question": "What increases the speed at which substances diffuse?",
-  "choices": ["Higher temperature", "Lower concentration gradient", "Thicker membrane", "Smaller surface area"],
-  "correctIndex": 0,
-  "feedback": "Higher temperatures increase the kinetic energy of particles, speeding up diffusion."
-},
-{
-  "question": "Describe the composition and function of the cytosol.",
-  "choices": ["Semi-fluid substance that supports organelles and allows chemical reactions", "Membrane that regulates entry and exit", "Genetic material that directs cell activities", "Fibers that maintain cell shape"],
-  "correctIndex": 0,
-  "feedback": "Cytosol is the fluid part of the cytoplasm, supporting organelles and enabling reactions."
-},
-{
-  "question": "Compare apoptosis and necrosis.",
-  "choices": ["Apoptosis is controlled; necrosis is uncontrolled", "Both are uncontrolled", "Both are controlled", "Necrosis is beneficial; apoptosis is not"],
-  "correctIndex": 0,
-  "feedback": "Apoptosis is a programmed, controlled process, while necrosis is uncontrolled cell death due to injury."
-},
-{
-  "question": "Which type of muscle tissue is voluntary?",
-  "choices": ["Skeletal", "Smooth", "Cardiac", "All of them"],
-  "correctIndex": 0,
-  "feedback": "Skeletal muscle is the only voluntary muscle tissue."
-},
-{
-  "question": "Which type of muscle tissue is striated?",
-  "choices": ["Skeletal and cardiac", "Smooth and cardiac", "Skeletal and smooth", "All muscle types"],
-  "correctIndex": 0,
-  "feedback": "Skeletal and cardiac muscle tissues are striated."
-}
-
+  {
+    "question": "What is the most important hormone that regulates Calcium Ion levels?",
+    "choices": [
+      "Estrogen",
+      "Calcitonin",
+      "Parathyroid Hormone (PTH)",
+      "Insulin"
+    ],
+    "correctIndex": 2,
+    "feedback": "Parathyroid hormone (PTH) is the key regulator of calcium ion levels in blood."
+  },
+  {
+    "question": "Why is Osteoporosis more common in Women?",
+    "choices": [
+      "Women consume less calcium",
+      "Men have more bone density",
+      "Hormonal changes after menopause",
+      "Women exercise less"
+    ],
+    "correctIndex": 2,
+    "feedback": "Estrogen loss after menopause increases bone resorption, leading to osteoporosis."
+  },
+  {
+    "question": "What is Demineralization?",
+    "choices": [
+      "Addition of calcium to bone",
+      "Removal of organic material from bone",
+      "Loss of bone minerals",
+      "Formation of cartilage"
+    ],
+    "correctIndex": 2,
+    "feedback": "Demineralization is the loss of calcium and other minerals from bone."
+  },
+  {
+    "question": "Vitamin D deficiency can cause what bone disease in Children?",
+    "choices": [
+      "Rickets",
+      "Osteomalacia",
+      "Osteoarthritis",
+      "Scoliosis"
+    ],
+    "correctIndex": 0,
+    "feedback": "Rickets is caused by vitamin D deficiency in children, leading to soft bones."
+  },
+  {
+    "question": "Vitamin D deficiency can cause what bone disease in Adults?",
+    "choices": [
+      "Rickets",
+      "Osteomalacia",
+      "Osteoporosis",
+      "Fractures"
+    ],
+    "correctIndex": 1,
+    "feedback": "Osteomalacia is softening of bones due to vitamin D deficiency in adults."
+  }
 ]
