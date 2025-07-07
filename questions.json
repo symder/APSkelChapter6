@@ -372,5 +372,170 @@
     ],
     "correctIndex": 1,
     "feedback": "Osteomalacia is softening of bones due to vitamin D deficiency in adults."
+  },
+    {
+    "question": "What are the functions of the skeletal system?",
+    "choices": [
+      "Production of hormones and digestion of food",
+      "Support, protection, movement, blood cell production, mineral storage",
+      "Regulation of blood sugar and detoxification",
+      "Heat production and immune response"
+    ],
+    "correctIndex": 1,
+    "feedback": "Correct! The skeletal system supports the body, protects organs, allows movement, produces blood cells, and stores minerals."
+  },
+  {
+    "question": "What is the most common bone cancer?",
+    "choices": [
+      "Osteosarcoma",
+      "Fibrosarcoma",
+      "Chondrosarcoma",
+      "Ewing sarcoma"
+    ],
+    "correctIndex": 0,
+    "feedback": "Correct! Osteosarcoma is the most common primary bone cancer, especially in young people."
+  },
+  {
+    "question": "What is Osteogenesis Imperfecta?",
+    "choices": [
+      "A condition causing excess bone growth",
+      "A disease leading to bone cancer",
+      "A genetic disorder causing brittle bones",
+      "A bacterial infection of bone tissue"
+    ],
+    "correctIndex": 2,
+    "feedback": "Correct! Osteogenesis Imperfecta is a genetic disorder characterized by brittle, easily fractured bones."
+  },
+  {
+    "question": "What are some symptoms of Osteogenesis Imperfecta?",
+    "choices": [
+      "Thickening of bones and joint stiffness",
+      "Frequent fractures, blue sclera, hearing loss",
+      "Muscle paralysis and loss of sensation",
+      "Joint dislocations without fractures"
+    ],
+    "correctIndex": 1,
+    "feedback": "Correct! Symptoms include frequent fractures, blue tint in the whites of the eyes, and sometimes hearing loss."
+  },
+  {
+    "question": "With congenital clubfoot, what is the most common appearance of the foot?",
+    "choices": [
+      "Foot points upward and outward",
+      "Foot is excessively flat",
+      "Foot turns downward and inward",
+      "Foot is longer than normal"
+    ],
+    "correctIndex": 2,
+    "feedback": "Correct! In congenital clubfoot, the foot commonly points downward and inward."
+  },
+  {
+    "question": "How many vertebrae are in an adult?",
+    "choices": [
+      "30",
+      "29",
+      "24",
+      "26"
+    ],
+    "correctIndex": 3,
+    "feedback": "Correct! An adult typically has 26 vertebrae (7 cervical, 12 thoracic, 5 lumbar, sacrum, and coccyx counted as single bones)."
+  },
+  {
+    "question": "How many vertebrae are in a child?",
+    "choices": [
+      "33",
+      "28",
+      "24",
+      "31"
+    ],
+    "correctIndex": 0,
+    "feedback": "Correct! Children have 33 vertebrae before some fuse to form the sacrum and coccyx in adulthood."
+  },
+  {
+    "question": "How many bones are in the Axial Skeleton?",
+    "choices": [
+      "80",
+      "126",
+      "90",
+      "64"
+    ],
+    "correctIndex": 0,
+    "feedback": "Correct! The axial skeleton consists of 80 bones including the skull, vertebral column, and rib cage."
+  },
+  {
+    "question": "How many bones are in the Appendicular Skeleton?",
+    "choices": [
+      "90",
+      "80",
+      "126",
+      "64"
+    ],
+    "correctIndex": 2,
+    "feedback": "Correct! The appendicular skeleton has 126 bones including the limbs, pectoral girdles, and pelvic girdle."
+  },
+  {
+    "question": "What bones does the scapula articulate with?",
+    "choices": [
+      "Clavicle and humerus",
+      "Sternum and humerus",
+      "Ribs and clavicle",
+      "Vertebrae and humerus"
+    ],
+    "correctIndex": 0,
+    "feedback": "Correct! The scapula articulates with the clavicle at the acromioclavicular joint and the humerus at the glenohumeral joint."
+  },
+  {
+    "question": "What group of people does osteoporosis mostly affect?",
+    "choices": [
+      "Young athletes",
+      "Men over 30",
+      "Postmenopausal women",
+      "Teenagers"
+    ],
+    "correctIndex": 2,
+    "feedback": "Correct! Postmenopausal women are at the highest risk due to decreased estrogen levels."
+  },
+  {
+    "question": "What are some symptoms of osteoporosis?",
+    "choices": [
+      "Frequent joint dislocations and muscle cramps",
+      "Bone pain, loss of height, and fractures",
+      "Skin rashes and fever",
+      "Nerve pain and numbness"
+    ],
+    "correctIndex": 1,
+    "feedback": "Correct! Symptoms include bone pain, fractures from minor falls, and loss of height over time."
+  },
+  {
+    "question": "Which of these options would be the most effective treatment for osteoporosis?",
+    "choices": [
+      "Weight bearing exercises",
+      "Swimming",
+      "Stretching",
+      "Sprinting"
+    ],
+    "correctIndex": 0,
+    "feedback": "Correct! Weight-bearing exercises help maintain and improve bone density."
+  },
+  {
+    "question": "What are some symptoms of Osgood-Schlatter disease?",
+    "choices": [
+      "Heel pain and toe deformity",
+      "Pain and swelling just below the kneecap",
+      "Hip stiffness and limping",
+      "Sharp pain in the lower back"
+    ],
+    "correctIndex": 1,
+    "feedback": "Correct! Osgood-Schlatter causes pain and swelling over the tibial tuberosity just below the kneecap."
+  },
+  {
+    "question": "What group of people does Osgood-Schlatter disease mostly affect?",
+    "choices": [
+      "Adult athletes",
+      "Young athletes during growth spurts",
+      "Newborn infants",
+      "Elderly women"
+    ],
+    "correctIndex": 1,
+    "feedback": "Correct! It most commonly affects active adolescents experiencing rapid growth."
   }
 ]
